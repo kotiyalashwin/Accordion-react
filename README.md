@@ -15,7 +15,7 @@ This project is a simple and customizable Accordion component built using React.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-accordion.git
+   git clone https://github.com/kotiyalashwin/Accordion-react.git
    cd react-accordion
    ```
 
